@@ -293,10 +293,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"socketClient/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"InteractivePoster/Preview Content\"";
 				DEVELOPMENT_TEAM = FF4TNUJ9V8;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = socketClient/Info.plist;
+				INFOPLIST_FILE = InteractivePoster/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -313,10 +313,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"socketClient/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"InteractivePoster/Preview Content\"";
 				DEVELOPMENT_TEAM = FF4TNUJ9V8;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = socketClient/Info.plist;
+				INFOPLIST_FILE = InteractivePoster/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
